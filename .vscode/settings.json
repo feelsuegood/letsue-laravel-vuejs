@@ -1,0 +1,10 @@
+{
+    "eslint.validate": ["javascript", "javascriptvue", "vue"],
+    "eslint.format.enable": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "workbench.colorTheme": "Default Dark+",
+    "editor.fontFamily": "Cascadia Code",
+    "editor.fontWeight": "400"
+}
