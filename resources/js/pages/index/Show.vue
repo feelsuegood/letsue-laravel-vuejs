@@ -1,6 +1,6 @@
 <template>
-    <h1>Index</h1>
-    <Link href="/hello">Show Page</Link>
+    <h1>Show</h1>
+    <Link href="/">Main Page</Link>
 </template>
 
 <script setup lang="ts">
