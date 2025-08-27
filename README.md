@@ -6,3 +6,9 @@ Develop a full-stack Single Page Application (SPA) using the VILT stack (Laravel
 - Vue.js 3
 - Inertia.js
 - Tailwind CSS
+
+# Run the project
+```bash
+npm run dev
+php artisan serve
+```
