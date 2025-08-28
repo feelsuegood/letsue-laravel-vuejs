@@ -7,9 +7,3 @@
 import { Link } from "@inertiajs/vue3";
 </script>
 
-<script lang="ts">
-import MainLayout from "@/layouts/MainLayout.vue";
-export default {
-    layout: MainLayout
-}
-</script>

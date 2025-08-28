@@ -10,10 +10,3 @@ import { Link } from "@inertiajs/vue3";
 // specify the type: recommended
 defineProps({message: String,})
 </script>
-
-<script lang="ts">
-import MainLayout from "@/layouts/MainLayout.vue";
-export default {
-    layout: MainLayout
-}
-</script>
