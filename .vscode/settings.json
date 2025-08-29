@@ -1,6 +1,7 @@
 {
-    "eslint.validate": ["javascript", "javascriptvue", "vue"],
+    "eslint.validate": ["javascript", "typescript", "vue"],
     "eslint.format.enable": true,
+    "eslint.useFlatConfig": true,
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": "explicit"
     },
